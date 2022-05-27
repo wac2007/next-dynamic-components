@@ -4,7 +4,7 @@ import DynamicCardComponent from '../src/components/test-2/dynamic';
 const test2A = () => {
   return (
     <div>
-      <DynamicCardComponent type="processor" />
+      <DynamicCardComponent type="book" />
     </div>
   );
 };
