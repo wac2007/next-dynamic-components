@@ -1,3 +1,7 @@
+Este repo se baseia no starter do https://github.com/MikevPeeren/next-typescript-tailwindcss-sass-starter e é referente ao tutorial XTPO para code split de Next.js.
+
+---
+
 # Next.js TypeScript TailwindCSS & Sass Starter
 
 Use TypeScript, TailwindCSS & Sass to quick start your new Next.js app!!
